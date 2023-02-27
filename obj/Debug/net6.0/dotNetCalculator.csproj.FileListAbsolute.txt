@@ -1,0 +1,15 @@
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\Practise\dotNetCalculator\bin\Debug\net6.0\dotNetCalculator.exe
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\Practise\dotNetCalculator\bin\Debug\net6.0\dotNetCalculator.deps.json
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\Practise\dotNetCalculator\bin\Debug\net6.0\dotNetCalculator.runtimeconfig.json
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\Practise\dotNetCalculator\bin\Debug\net6.0\dotNetCalculator.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\Practise\dotNetCalculator\bin\Debug\net6.0\dotNetCalculator.pdb
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\Practise\dotNetCalculator\obj\Debug\net6.0\dotNetCalculator.csproj.AssemblyReference.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\Practise\dotNetCalculator\obj\Debug\net6.0\dotNetCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\Practise\dotNetCalculator\obj\Debug\net6.0\dotNetCalculator.AssemblyInfoInputs.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\Practise\dotNetCalculator\obj\Debug\net6.0\dotNetCalculator.AssemblyInfo.cs
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\Practise\dotNetCalculator\obj\Debug\net6.0\dotNetCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\Practise\dotNetCalculator\obj\Debug\net6.0\dotNetCalculator.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\Practise\dotNetCalculator\obj\Debug\net6.0\refint\dotNetCalculator.dll
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\Practise\dotNetCalculator\obj\Debug\net6.0\dotNetCalculator.pdb
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\Practise\dotNetCalculator\obj\Debug\net6.0\dotNetCalculator.genruntimeconfig.cache
+C:\Users\sodiq\OneDrive\Ishchi stol\Mohirdev\Practise\dotNetCalculator\obj\Debug\net6.0\ref\dotNetCalculator.dll
